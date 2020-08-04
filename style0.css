@@ -1,0 +1,40 @@
+h1 {
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 300;
+}
+
+h3 {
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 0;  
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  background-image: url("treehouse-large-1.jpg"); 
+  background-color: #ffffff; 
+  height: 300px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.center {
+  padding: 70px 0;
+  text-align: center;  
+}
